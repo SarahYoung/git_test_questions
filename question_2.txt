@@ -1,1 +1,2 @@
 In your own words, explain what the 'upstream' remote is usually used for: 
+The 'upstream' is used to update to the most recent version of the original repository on Github.
