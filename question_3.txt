@@ -1,1 +1,2 @@
 In your own words, explain what a branch is: 
+A branch is a separate line of development independent from but connected to the main ('master') branch.
