@@ -1,1 +1,2 @@
 In your own words, explain what git clone does: 
+'git clone' is a command that combines a series of other commands (mkdir, cd, git init, git remote add origin) to create a local repo.
